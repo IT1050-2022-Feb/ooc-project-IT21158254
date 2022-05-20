@@ -1,5 +1,5 @@
 
-class Product{
+class Product{ 
 	
 	private:
 		int productID;
