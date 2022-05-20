@@ -19,9 +19,9 @@ Admin::Admin(){
 Admin::Admin(string Name,string Address,int pnumber,string email,string adminid,string pass,Customer *cu,Seller *se,Report *re):User(string Name,string Address,int pnumber,string email){
 	Admin_ID=adminid;
 	password=pass;
-	cus[0]=cu;
+	cus[0]=cu; 
 	seller[0]=se;
-	report[0]=re; 
+	report[0]=re;    
 	
 }
 
