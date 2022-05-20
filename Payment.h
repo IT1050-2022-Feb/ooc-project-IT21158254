@@ -14,4 +14,4 @@ class Payment{
 		void cancelPayment();
 		~Payment();
 		
-};
+}; 

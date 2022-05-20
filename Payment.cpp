@@ -17,7 +17,7 @@ Payment::Payment(int pid,float pamount){
 	 paymentID=pid;
 	 amount=pamount;
 }
-
+ 
 float displayPayment(){
 	
 	return amount;
