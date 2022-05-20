@@ -2,21 +2,20 @@
 #include "Cart.h"
 #include "User.h"
 
+class Customer::public User
+{
 
-class Customer::public User{
-	
-	private:
-		string Cust_ID;
-		string password;
-		Cart *cart;
-	public:
-		void addFeedback();
-		void updateProfile();
-		void search();
-		void buyproduct();
-		Customer();
-		Customer(string Name,string Address,int pnumber,string email,string Custid,string pass,int cartid,string cartname);
-		~Customer();
-	
-	
+private:
+	string Cust_ID;
+	string password;
+	Cart *cart;
+
+public:
+	void addFeedback();
+	void updateProfile();
+	void search();
+	void buyproduct();
+	Customer();
+	Customer(string Name, string Address, int pnumber, string email, string Custid, string pass, int cartid, string cartname);
+	~Customer();
 };
