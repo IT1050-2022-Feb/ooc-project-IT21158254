@@ -1,6 +1,6 @@
-#inlcude<iostream>
+#include<iostream>
 #include<cstring>
-#inlcude "DeliveryDetails.h"
+#include "DeliveryDetails.h"
 using namespace std;
 
 DeliveryDetails::DeliveryDetails(){

@@ -1,4 +1,4 @@
-#inlcude<iostream>
+#include<iostream>
 #include<cstring>
 #inlcude "Payment.h"
 using namespace std;

@@ -1,7 +1,8 @@
  #include "OrderDetail.h"
 #include "Payment.h"
 #include "DeliveryDetails.h"
-#inlcude "Customer.h"
+#include "Customer.h"
+
 
 class Order{
 	

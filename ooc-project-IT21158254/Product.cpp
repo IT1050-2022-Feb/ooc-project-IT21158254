@@ -1,6 +1,6 @@
-#inlcude<iostream> 
-#include<cstring>
-#inlcude "Product.h"
+#include<iostream> 
+#include<cstring>  
+#include "Product.h"
 #include "OrderDetail.h"
 using namespace std;
 

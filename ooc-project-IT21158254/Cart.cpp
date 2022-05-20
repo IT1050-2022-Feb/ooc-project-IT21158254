@@ -1,6 +1,6 @@
-#inlcude<iostream>
+#include<iostream>
 #include<cstring>
-#include "Cart.h"
+  #include "Cart.h"
 #include "Product.h"
 
 Cart::Cart(){

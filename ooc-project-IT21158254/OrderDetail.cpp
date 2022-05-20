@@ -1,7 +1,7 @@
-#inlcude<iostream>
+#include<iostream>
 #include<cstring>
-#inlcude "Payment.h"
-#inlcude "Product.h"
+#include "Payment.h"
+#include "Product.h"
 using namespace std;
 
 OrderDetail::OrderDetail(){

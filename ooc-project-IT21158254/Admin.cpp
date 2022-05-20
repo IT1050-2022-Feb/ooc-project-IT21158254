@@ -1,12 +1,13 @@
 #include <iostream>
 #include <string>
 #include "Admin.h"
-#inlcude "User.h"
+#include "User.h"
 #include "Customer.h"
 #include "Seller.h"
 #include "Report.h"
 #define SIZE5 1;
 using namespace std;
+
 
 
 Admin::Admin(){

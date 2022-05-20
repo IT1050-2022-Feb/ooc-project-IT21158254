@@ -1,9 +1,9 @@
- #inlcude<iostream>
+ #include<iostream>
 #include<cstring>
 #include "OrderDetail.h"
 #include "Payment.h"
 #include "DeliveryDetails.h"
-#inlcude "Customer.h"
+#include "Customer.h"
 #inlcude "Order.h"
 using namespace std;
 

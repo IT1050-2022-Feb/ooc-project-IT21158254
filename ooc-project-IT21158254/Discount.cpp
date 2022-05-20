@@ -3,6 +3,7 @@
 #include "Discount.h"
 #include "Payment.h"
 
+
 using namespace std;
 
 Discount::Discount(){
@@ -25,7 +26,8 @@ Discount::~Discount(){
 	
 	cout<<"discount removed"<<endl;
 	
-}
+}  
+
 
 
 

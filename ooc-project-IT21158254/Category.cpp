@@ -1,4 +1,4 @@
-#inlcude<iostream> 
+#include<iostream> 
 #include<cstring>
 #include "Category.h"
 #include "Product.h"
