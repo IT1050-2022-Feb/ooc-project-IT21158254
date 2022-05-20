@@ -20,7 +20,7 @@ class Admin:public User{
    	void manageusers();
    	Admin();
    	Admin(string Name,string Address,int pnumber,string email,string adminid,string pass,Customer *cu,Seller *se,Report *re);
-   	~Admin();
+   	~Admin(); 
    	
      
 	

@@ -21,7 +21,7 @@ Admin::Admin(string Name,string Address,int pnumber,string email,string adminid,
 	password=pass;
 	cus[0]=cu;
 	seller[0]=se;
-	report[0]=re;
+	report[0]=re; 
 	
 }
 

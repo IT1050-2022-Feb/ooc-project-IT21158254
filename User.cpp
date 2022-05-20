@@ -24,7 +24,7 @@ User::User(string Name,string Address,int pnumber,string email){
 User::~User(){
 	
 	cout<<"Destructor is runing"<<endl;
-}
+} 
 
 
 

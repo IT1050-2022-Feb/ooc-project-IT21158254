@@ -17,5 +17,5 @@ class User{
 		User();
 		User(string Name,string Address,int pnumber,string email);
 		~User();
-};
+}; 
 

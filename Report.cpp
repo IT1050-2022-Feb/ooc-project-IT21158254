@@ -17,4 +17,4 @@ Report::~Report(){
 	
 	cout<<"Report was deleted"<<endl;
 	
-}
+} 
